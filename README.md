@@ -5,4 +5,7 @@ I am very excited.
 TASK_1
 ---------------
 1.1 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_1.png
+
 1.2 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_2.png
+
+1.3 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_3.png
