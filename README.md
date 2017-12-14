@@ -9,3 +9,9 @@ TASK_1
 1.2 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_2.png
 
 1.3 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_3.png
+
+---------------
+TASK_2
+---------------
+
+2.1 - https://github.com/feroxes/kottans_frontend/blob/master/task_2/task_2_1.png
