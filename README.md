@@ -17,3 +17,9 @@ TASK_2
 2.1 - https://github.com/feroxes/kottans_frontend/blob/master/task_2/task_2_1.png
 
 2.2 - https://github.com/feroxes/kottans_frontend/blob/master/task_2/task_2_2.png
+
+---------------
+TASK_3
+---------------
+
+3.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_3/task_3.png
