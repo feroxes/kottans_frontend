@@ -23,3 +23,9 @@ TASK_3
 ---------------
 
 3.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_3/task_3.png
+
+---------------
+TASK_4
+---------------
+
+4.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_4/task_4.png
