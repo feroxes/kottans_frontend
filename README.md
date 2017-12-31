@@ -1,4 +1,4 @@
-It was really cool. Before this courses I don`t knew anything about git and github. Now I have opened my eyes. 
+It was really cool. Before this courses I don`t knew anything about git and github. Now I have opened my eyes.
 I am very excited.
 
 ---------------
@@ -29,3 +29,9 @@ TASK_4
 ---------------
 
 4.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_4/task_4.png
+
+---------------
+TASK_5
+---------------
+
+5.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_5/task_5.png
