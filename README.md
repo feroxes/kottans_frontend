@@ -40,8 +40,3 @@ TASK_5
 TASK_6
 ---------------
 6.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_6/task_6.png
-
----------------
-TASK_7
----------------
-7.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_7/task_7.png
