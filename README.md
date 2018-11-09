@@ -1,8 +1,5 @@
-It was really cool. Before this courses I don`t knew anything about git and github. Now I have opened my eyes.
-I am very excited.
-
 ---------------
-TASK_1
+1_Linux CLI and Networking
 ---------------
 1.1 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_1.png
 
@@ -11,7 +8,7 @@ TASK_1
 1.3 - https://github.com/feroxes/kottans_frontend/blob/master/task_1/task_1_3.png
 
 ---------------
-TASK_2
+2_GitHub and Collaboration
 ---------------
 
 2.1 - https://github.com/feroxes/kottans_frontend/blob/master/task_2/task_2_1.png
@@ -19,29 +16,29 @@ TASK_2
 2.2 - https://github.com/feroxes/kottans_frontend/blob/master/task_2/task_2_2.png
 
 ---------------
-TASK_3
+3_Intro to HTML & CSS
 ---------------
 
 3.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_3/task_3.png
 
 ---------------
-TASK_4
+4_Responsive Web Design
 ---------------
 
 4.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_4/task_4.png
 
 ---------------
-TASK_5
+5_JavaScript Basics
 ---------------
 
 5.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_5/task_5.png
 
 ---------------
-TASK_6
+8_Object oriented JS 
 ---------------
-6.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_6/task_6.png
+8.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_6/task_6.png
 
 ---------------
-TASK_7
+10_Offline Web Applications
 ---------------
-7.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_7/task_7.png
+10.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_7/task_7.png
