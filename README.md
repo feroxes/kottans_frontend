@@ -33,12 +33,19 @@
 
 5.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_5/task_5.png
 
----------------
-6_A Tiny JS World
+---------------https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/a-tiny-js-world
+6_DOM
 ---------------
 
 6.0 - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/js-dom
 Reviewed and approved by @zonzujiro 
+
+---------------
+7_A Tiny JS World
+---------------
+
+7.0 - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/a-tiny-js-world
+Reviewed and approved by @OleksiyRudenko
 
 ---------------
 8_Object oriented JS 
