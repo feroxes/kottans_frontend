@@ -33,7 +33,7 @@
 
 5.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_5/task_5.png
 
----------------https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/a-tiny-js-world
+---------------
 6_DOM
 ---------------
 
