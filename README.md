@@ -51,6 +51,7 @@ Reviewed and approved by @OleksiyRudenko
 8_Object oriented JS 
 ---------------
 8.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_6/task_6.png
+8.1 - https://github.com/feroxes/kottans_frontend/blob/master/8_Object%20oriented%20JS%20/Screen%20Shot%202018-11-28%20at%2016.20.09.png
 
 ---------------
 10_Offline Web Applications
