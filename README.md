@@ -57,3 +57,10 @@ Reviewed and approved by @OleksiyRudenko
 10_Offline Web Applications
 ---------------
 10.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_7/task_7.png
+
+---------------
+11_Memory Pair Game
+---------------
+Demo - https://feroxes.github.io/memory-game/
+Source - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/memory-game
+Reviewed and approved by @mgdskr
