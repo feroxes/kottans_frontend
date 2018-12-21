@@ -67,3 +67,13 @@ Demo - https://feroxes.github.io/memory-game/
 Source - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/memory-game
 
 Reviewed and approved by @mgdskr
+
+---------------
+13_Friends App
+---------------
+Demo - https://feroxes.github.io/friends_app/
+
+Source - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/friends-app
+
+Reviewed and approved by @AMashoshyna
+
