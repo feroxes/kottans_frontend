@@ -55,9 +55,11 @@ Reviewed and approved by @OleksiyRudenko
 8.1 - https://github.com/feroxes/kottans_frontend/blob/master/8_Object%20oriented%20JS%20/Screen%20Shot%202018-11-28%20at%2016.20.09.png
 
 ---------------
-10_Offline Web Applications
+9_OOP exercise 
 ---------------
-10.0 - https://github.com/feroxes/kottans_frontend/blob/master/task_7/task_7.png
+9.0 - https://github.com/kottans/frontend-2019-homeworks/tree/master/submissions/feroxes/a-tiny-js-world
+
+Reviewed and approved by @OleksiyRudenko
 
 ---------------
 11_Memory Pair Game
